@@ -1,7 +1,7 @@
-1C:Enterprice 8 FinTS
+1C:Enterprise 8 FinTS / HBCI
 =======
 
-This is a pure-1C implementation of FinTS (formerly known as HBCI), a
+This is a pure-1C implementation of FinTS (formerly known as HBCI), an
 online-banking protocol commonly supported by German banks.
 
 Limitations
