@@ -15,7 +15,7 @@ Limitations
 Usage
 -----
 
-```
+```bsl
 	Client = FinTS.CreateClient(
 	    "12345678",		// Your bank's BLZ
 	    "test1",		// User ID
