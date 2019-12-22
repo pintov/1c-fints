@@ -26,7 +26,6 @@ Usage
 	
 	Statement = FinTS.GetStatement(Client, accounts[0], '20010101', CurrentDate());
 ```
-Video demonstration you may find here: https://youtu.be/lErxeBCNydU
 
 Credits and License
 -------------------
