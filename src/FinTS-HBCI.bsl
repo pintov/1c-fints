@@ -192,7 +192,7 @@ EndFunction
 
 Function NumToStr(Value)
 	If TypeOf(Value) = Type("Number") Then	
-		Return Format(Value, "NZ=0; NG=");
+		Return XMLString(Value);
 	Else
 		Return Value;		
 	EndIf;
